@@ -11,21 +11,22 @@
 #i have added eth_to_pepe_rate fixed quantity, change it dynamic to improve the code
 
 
-How to install
+**How to install**
 
 Use Pycharm for desktop.
 
 Install required imports
-#requirments file updated in the repo
+>requirments file updated in the repo
 
-pip install -r requirements.txt 
+[] pip install -r requirements.txt 
 
-address :
+**Address :**
 weth_address = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
 
 uniswap_v3_router_address = "0xE592427A0AEce92De3Edee1F18E0157C05861564"
 
 pepe_eth_pair_address = "0x11950d141ecb863f01007add7d1a342041227b58"
+
 (when the code is written, pepe is the trending token in ETh chian, its not the recommendation to buy)
 (Any token literally can go to zeroo)
 
