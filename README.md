@@ -30,6 +30,14 @@ pepe_eth_pair_address = "0x11950d141ecb863f01007add7d1a342041227b58"
 (when the code is written, pepe is the trending token in ETh chian, its not the recommendation to buy)
 (Any token literally can go to zeroo)
 
+```mermaid
+graph TD;
+    Mempool-->Pepe Order;
+    1 Eth-->Place Buy;
+    Token Received-->Place Sell Order;
+    Profit booked-->Watch Mempool;
+```
+
 then add the required private key and infura api key
 
 then you are good to go :)
