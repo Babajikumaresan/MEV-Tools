@@ -9,9 +9,12 @@
 
 How to install
 
-Use Pycharm
+Use Pycharm for desktop.
+
 Install required imports
-pip instal web3
+#requirments file updated in the repo
+
+pip install -r requirements.txt 
 
 then add the required private key and infura api key
 
