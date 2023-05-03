@@ -17,9 +17,9 @@ Use Pycharm for desktop.
 
 Install required imports
 >requirments file updated in the repo
-
+```
 - [x] pip install -r requirements.txt 
-
+```
 **Address :**
 weth_address = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
 
