@@ -38,6 +38,13 @@ graph TD;
     Monitor Sell Order-->Place Buy;
 ```
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 then add the required private key and infura api key
 
 then you are good to go :)
