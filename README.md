@@ -30,13 +30,11 @@ pepe_eth_pair_address = "0x11950d141ecb863f01007add7d1a342041227b58"
 (when the code is written, pepe is the trending token in ETh chian, its not the recommendation to buy)
 (Any token literally can go to zeroo)
 
-```mermaid
-graph TD;
-    Mempool-->Monitor Buy Order;
-    Mempool-->Monitor Sell Order;
-    Monitor Buy Order-->Place Buy;
-    Monitor Sell Order-->Place Buy;
-```
+ 
+ A   Mempool-->Monitor Trades;
+ B   Monitor Buy Order-->Place Buy(D);
+ C   Monitor Sell Order-->Place Buy(D);
+ 
 
 ```mermaid
 graph TD;
