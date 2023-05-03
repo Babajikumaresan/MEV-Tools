@@ -32,8 +32,7 @@ pepe_eth_pair_address = "0x11950d141ecb863f01007add7d1a342041227b58"
 
  
  A   Mempool-->Monitor Trades;
- B   Monitor Buy Order-->Place Buy(D);
- C   Monitor Sell Order-->Place Buy(D);
+ B   Monitor Trades-->Place Buy(D);
  
 
 ```mermaid
